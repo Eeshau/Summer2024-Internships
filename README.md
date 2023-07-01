@@ -71,6 +71,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Volvo | Hagerstown, MD | **🔒 Closed 🔒** Intern: Engineering, Embedded Software (Summer 2024) |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)|
 | Test | Louisville, KY | Digital Technology Intern |
+| Test2 | Louisville, KY | Digital Technology Intern |
 
 
 <!-- Please leave a one line gap between this and the table -->
